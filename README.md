@@ -15,20 +15,6 @@ data set = https://github.com/Ralireza/PSDR
 - ذخیره و بارگذاری مدل آموزش‌دیده
 - پیش‌بینی روی فایل‌های صوتی جدید
 
----
-
-## ساختار پروژه
-voiceRecognization/
-├── voice_recognition.py # استخراج ویژگی‌های MFCC
-├── train_model.py # آموزش مدل LSTM
-├── predict.py # پیش‌بینی روی فایل جدید
-├── processed_data.pkl # داده‌های پردازش‌شده
-├── best_digit_model.pth # وزن‌های بهترین مدل
-├── requirements.txt # لیست کتابخانه‌های مورد نیاز
-└── PSDR/ # دیتاست اصلی
-
-
----
 
 
 Epoch 5: Loss = 1.8424, Test Accuracy = 35.00%
