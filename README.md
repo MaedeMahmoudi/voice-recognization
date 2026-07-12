@@ -1,6 +1,6 @@
 #  Persian Spoken Digit Recognition (PSDR)
 data set = https://github.com/Ralireza/PSDR
-> تشخیص اعداد گفتاری فارسی (۰ تا ۹) با استفاده از **MFCC** و **LSTM**
+> تشخیص اعداد فارسی (۰ تا ۹) با استفاده از **MFCC** و **LSTM**
 
 ---
 
